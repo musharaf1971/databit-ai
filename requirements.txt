@@ -1,0 +1,12 @@
+streamlit
+openai
+requests
+pandas
+psutil
+pypdf2
+python-docx
+wikipedia-api
+cryptography
+urllib3
+pathlib
+concurrent.futures
